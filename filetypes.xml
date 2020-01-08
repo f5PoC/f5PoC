@@ -4,6 +4,7 @@
       <mapping pattern="in_scope_domains" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="wildcard_0-50.txt" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping pattern="udp_client" type="Python" />
     </extensionMap>
   </component>
